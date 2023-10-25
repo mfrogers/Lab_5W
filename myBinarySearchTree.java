@@ -1,4 +1,4 @@
-package lab5;
+
 
 /**
  * Implements the add method (recursive) for a BST
